@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="left">Hey, I'm Vinay, A software engineer at Red Hat. I work on full-stack and python for work. I dabble with rust and go from time to time currently as an interest. Hardcore Cybersec enthusiast, participate in CTFs and aiming for some certifications.</p>
-<p align="left">Presently, I'm centered on building React/Next.js applications, actively involved in CI/CD (utilizing GitHub Actions, etc.), and also working on the development of Ansible network automation.</p>
+<p align="left">Presently, I'm centered on building Ansible network automation and React/Next.js applications, actively involved in CI/CD (utilizing GitHub Actions, etc.), and also working on the development of some personal projects.</p>
 <p align="left">I'm passionate about open source and actively contribute as a maintainer. The open-source community has been a valuable source of learning for me and i love how collaboration and knowledge sharing happens through open-source. I'm dedicated to contributing to cool and impactful projects.</p>
 
 <p align="left">
