@@ -6,6 +6,7 @@
 <p align="left">
 
 <h3 align="left">Cool languages and tools I dabble in now and then:</h3>
+<div style="display:flex;gap:5px;">  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -27,5 +28,6 @@
   <img alt="celery" src="https://img.shields.io/badge/-celery-C1FD95?style=flat-square&logo=celery&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/-rust-b7410e?style=flat-square&logo=rust&logoColor=white" />
   <img alt="go" src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=go&logoColor=white" />
+</div>
 
 <h3 align="left">Follow me on:</h3> <a href="https://twitter.com/r_h4zard" target="blank"><img src="https://img.shields.io/twitter/follow/r_h4zard?logo=twitter&style=for-the-badge" alt="r_h4zard" /></a>
