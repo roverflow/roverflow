@@ -5,7 +5,7 @@
 
 <p align="left">
 
-<h3 align="left">Cool languages and tools I dabble in now and then:</h3>
+<h3 align="left">Cool languages, tools and frameworks I dabble in now and then:</h3>
 <div style="display:flex;gap:5px;">  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
