@@ -1,7 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p align="left">Hey, I'm Vinay, A software engineer at Red Hat. I do python for work and also have experience with building full-stack applications. I dabble with rust and go from time to time currently as an interest. Hardcore Cybersec enthusiast, participate in CTFs and aiming for some certifications.</p>
-<p align="left">Presently, I'm centered on building Ansible network automation, actively involved in CI/CD (utilizing GitHub Actions, etc.), and also working on the development of some personal projects with React/Next.js.</p>
-<p align="left">I'm passionate about open source and actively contribute as a maintainer. The open-source community has been a valuable source of learning for me and i love how collaboration and knowledge sharing happens through open-source. I'm dedicated to contributing to cool and impactful projects.</p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Vinay!</h1>
+
+- 💻 I am working as a Software Engineer at Red Hat! [Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
+- 🔧 Always eager to learn and collaborate on **impactful projects/products**
+- ❤️ **Open Source Software**
+- 🌱 Currently exploring Golang
+- 🔍 🐧 Linux ... it runs on everything, even your toaster!
 
 <p align="left">
 
