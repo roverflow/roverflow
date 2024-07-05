@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Vinay!</h1>
 
-- 💻 I am working as a Software Engineer at Red Hat! [Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
+- 💻 I am working as a Software Engineer at Red Hat! <img alt="Redhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" />
 - 🔧 Always eager to learn and collaborate on **impactful projects/products**
 - ❤️ **Open Source Software**
 - 🌱 Currently exploring Golang
