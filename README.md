@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Vinay!</h1>
 
-- 💻 I am working as a Software Engineer at Redhat!
-- 🔧 Always eager to learn and collaborate on **impactful projects/products**
-- ❤️ **Open Source Software**
-- 🌱 Currently exploring Golang
-- 🔍 🐧 Linux ... it runs on everything, even your toaster!
+- I am working as a Software Engineer at Red hat!
+- Always eager to learn and collaborate on **impactful projects/products**
+- **Open Source Software**
+- Currently exploring Golang
+- 🐧 Linux ... it runs on everything, even your toaster!
 
 <p align="left">
 
