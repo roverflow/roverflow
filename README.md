@@ -33,4 +33,4 @@
   <img alt="go" src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=go&logoColor=white" />
 </div>
 
-<h3 align="left">Follow me on:</h3> <a href="https://twitter.com/r_h4zard" target="blank"><img src="https://img.shields.io/twitter/follow/r_h4zard?logo=twitter&style=for-the-badge" alt="r_h4zard" /></a>
+<h3 align="left">Follow me on:</h3> <a href="https://twitter.com/roverflowx" target="blank"><img src="https://img.shields.io/twitter/follow/roverflowx?logo=twitter&style=for-the-badge" alt="roverflowx" /></a>
